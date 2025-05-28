@@ -76,6 +76,45 @@ body {
     color: #0d47a1;
   }
   
-
+  #planes h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #planes table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  #planes caption {
+    background: #0d47a1;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  #planes th, #planes td {
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #0d47a1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+  }
+  
+  .redes a {
+    margin: 0 10px;
+    color: white;
+    font-size: 1.5em;
+  }  
 
   
