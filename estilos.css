@@ -50,6 +50,7 @@ body {
     text-align: center;
     margin-bottom: 40px;
   }
+  
   .tarjetas {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -115,6 +116,5 @@ body {
     margin: 0 10px;
     color: white;
     font-size: 1.5em;
-  }  
-
+  }
   
